@@ -1,28 +1,25 @@
-## Oioi! Eu sou a Letícia 👋
+<h2>Oioi! Eu sou a Letícia 👋</h2>
 
-🎓 Estudante de Sistemas de Informação — UECE  
-🎨 Desenvolvedora Front-end em formação  
-💻 HTML • CSS • JavaScript  
-✨ Interesse em UI/UX Design  
+<p>
+🎓 Estudante de <strong>Sistemas de Informação</strong> — UECE <br/>
+🎨 Desenvolvedora <strong>Front-end em formação</strong> <br/>
+✨ Interesse em <strong>UI/UX Design</strong>
+</p>
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+### Tecnologias e ferramentas
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
 ---
 
 ### 📂 Projetos em destaque
-- 🔗 **Alugarzin** — Sistema web para divulgação e gerenciamento de imóveis  
-- 🔗 **SolidarizAção** — Plataforma web para conexão entre doadores e campanhas solidárias  
+- 🏠 <strong>Alugarzin</strong> — Sistema web para divulgação e gerenciamento de imóveis  
+- 🤝 <strong>SolidarizAção</strong> — Plataforma web para conexão entre doadores e campanhas solidárias  
 
 *(Veja os repositórios fixados abaixo 👇)*
-
----
-
-### 📫 Contato
-📍 CE, Brasil  
-
-[![Email](https://img.shields.io/badge/Email-Contato-red)](mailto:letmineiro24@gmail.com)
