@@ -1,16 +1,28 @@
-## Hi there 👋
+## Oioi! Eu sou a Letícia 👋
 
-<!--
-**LetMineiro/LetMineiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação — UECE  
+🎨 Desenvolvedora Front-end em formação  
+💻 HTML • CSS • JavaScript  
+✨ Interesse em UI/UX Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e ferramentas
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+---
+
+### 📂 Projetos em destaque
+- 🔗 **Alugarzin** — Sistema web para divulgação e gerenciamento de imóveis  
+- 🔗 **SolidarizAção** — Plataforma web para conexão entre doadores e campanhas solidárias  
+
+*(Veja os repositórios fixados abaixo 👇)*
+
+---
+
+### 📫 Contato
+📍 CE, Brasil  
+
+[![Email](https://img.shields.io/badge/Email-Contato-red)](mailto:letmineiro24@gmail.com)
