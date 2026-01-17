@@ -3,7 +3,7 @@
 <p>
 🎓 Estudante de <strong>Sistemas de Informação</strong> — UECE <br/>
 🧑‍💻 Desenvolvedora <strong>Front-end em formação</strong> <br/>
-💻 HTML • CSS • JavaScript
+💻 HTML • CSS • JavaScript <br/>
 ✨ Interesse em <strong>UI/UX Design</strong>
 </p>
 
